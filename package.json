@@ -1,5 +1,5 @@
 {
-  "name": "MyReactNativeApp",
+  "name": "my-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -22,7 +22,7 @@
     "@react-native/metro-config": "0.74.84",
     "@react-native/typescript-config": "0.74.84",
     "@types/react": "^18.2.6",
-    "@types/react-test-renderer": "^18.0.0",
+    "@types/react-test-renderer": "^18a.0.0",
     "babel-jest": "^29.6.3",
     "eslint": "^8.19.0",
     "jest": "^29.6.3",
