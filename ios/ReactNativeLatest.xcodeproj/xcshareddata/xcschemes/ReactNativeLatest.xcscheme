@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "MyReactNativeApp.app"
-               BlueprintName = "MyReactNativeApp"
-               ReferencedContainer = "container:MyReactNativeApp.xcodeproj">
+               BuildableName = "ReactNativeLatest.app"
+               BlueprintName = "ReactNativeLatest"
+               ReferencedContainer = "container:ReactNativeLatest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "MyReactNativeAppTests.xctest"
-               BlueprintName = "MyReactNativeAppTests"
-               ReferencedContainer = "container:MyReactNativeApp.xcodeproj">
+               BuildableName = "ReactNativeLatestTests.xctest"
+               BlueprintName = "ReactNativeLatestTests"
+               ReferencedContainer = "container:ReactNativeLatest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MyReactNativeApp.app"
-            BlueprintName = "MyReactNativeApp"
-            ReferencedContainer = "container:MyReactNativeApp.xcodeproj">
+            BuildableName = "ReactNativeLatest.app"
+            BlueprintName = "ReactNativeLatest"
+            ReferencedContainer = "container:ReactNativeLatest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MyReactNativeApp.app"
-            BlueprintName = "MyReactNativeApp"
-            ReferencedContainer = "container:MyReactNativeApp.xcodeproj">
+            BuildableName = "ReactNativeLatest.app"
+            BlueprintName = "ReactNativeLatest"
+            ReferencedContainer = "container:ReactNativeLatest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
